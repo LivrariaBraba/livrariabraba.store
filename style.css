@@ -1,0 +1,36 @@
+body{
+  background-color: yellow;
+  font-family: Arial;
+  margin: 10px;
+  text-align: center;
+  background-image: url("https://i.postimg.cc/YSfqrSQM/Background-do-meu-Site.jpg"nhé);
+}
+section{
+  margin: 20px;
+  background-color: #FFFFCC;
+  border-radius: 50px;
+  background-image: url("https://i.postimg.cc/GmZYR6HZ/IMG-3948.jpg");
+}
+img{
+  width: 400px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+footer{
+  color: green;
+}
+h3{
+  scale:
+}
