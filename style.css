@@ -21,16 +21,9 @@ a{
 a:hover{
   text-decoration: underline;
 }
-a{
-  color: black;
-  text-decoration: none;
-}
-a:hover{
-  text-decoration: underline;
-}
 footer{
   color: green;
 }
 h3{
-  scale:
+  transform: scale(1);
 }
