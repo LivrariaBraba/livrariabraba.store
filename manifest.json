@@ -1,6 +1,6 @@
 {
   "name": "Livraria Braba Store",
-  "short_name": "livrariabrabastore",
+  "short_name": "LivrariaBraba.Store",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#000000",
